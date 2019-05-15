@@ -1,2 +1,2 @@
 # SomeCoolProject
-This project's really cool!
+Tom changed the readme!
