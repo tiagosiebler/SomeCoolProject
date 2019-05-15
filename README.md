@@ -1,2 +1,2 @@
 # SomeCoolProject
-This project's really cool!
+This project's okay...
