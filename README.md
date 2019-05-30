@@ -1,2 +1,5 @@
 # SomeCoolProject
-Tom changed the readme!
+This project's okay...asdfasf
+
+
+dasfafasdfadfsfsadf
